@@ -13,14 +13,14 @@ baseurl: ''
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Coffeebuzz                          # the main title
+title: Coffee-buzz                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Block holes are not as black as they are painted. They are not the eternal prisons as we thought.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://coffee-buzz.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: guen-a-park             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/sulley.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
